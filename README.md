@@ -11,10 +11,10 @@ Resolucion de los ejercicios pares del capitulo 17 y 18 del libro de Principio d
 **Objetivos:** 
 
 - Saber resolver problemas tanto del capitulo 17como del capitulo 18
-
+ 
 - Poder saber cual es el comportamiento de la impedancia y reactancia en un circuito RLC y como saber resolver dichos circuitos.
 
-- Tener una critica tecnica del analisis en circuitos en serie-paralelo en los componentes R,L y C.
+- Tener una critica tecnica del analisis en circuitos en serie-paralelo en los componentes R,L y C. 
 
 **Marco teorico:** 
 
@@ -58,17 +58,17 @@ Resolucion de los ejercicios pares del capitulo 17 y 18 del libro de Principio d
 
 ![1](https://github.com/mrvillegas/Informe_Tarea_9/blob/main/tarea_9_completo_16.png)
 
-**Video:**
- 
+**Video:** 
+  
  https://www.youtube.com/watch?v=z_HowBJcUZ8
  
- **Conclusiones:**
+ **Conclusiones:** 
  
- a) Al resolver los problemas de los circuitos RLC hubo inconvenientes ya que hay que analizar cual es el comportamiento tanto del voltaje, corriente, resistencia y potencia para la hora de realizar los calculos correspondientes.
+ a) Al resolver los problemas de los circuitos RLC hubo inconvenientes ya que hay que analizar cual es el comportamiento tanto del voltaje, corriente, resistencia y potencia para la hora de realizar los calculos correspondientes. 
  
- b) En la resolucion del capitulo 17 existe nuevos componentes los cuales son los circuitos alternos el cual existen fijos como tambien variables en funcion del tiempo, resolver estos ejercicios ayuda a tener un mejor entendimiento de lo que es la impedancia y reactancia,como resolverlos y dependiendo de cada circuito se puede realizar un analisis riguroso para finalmente poder resolverlos.
- 
-  **Bibliografia:**
+ b) En la resolucion del capitulo 17 existe nuevos componentes los cuales son los circuitos alternos el cual existen fijos como tambien variables en funcion del tiempo, resolver estos ejercicios ayuda a tener un mejor entendimiento de lo que es la impedancia y reactancia,como resolverlos y dependiendo de cada circuito se puede realizar un analisis riguroso para finalmente poder resolverlos. 
   
-  Thomas L. Floyd(2007). Principios de circuitos eléctricos. Octava edición
+  **Bibliografia:** 
+  
+  Thomas L. Floyd(2007). Principios de circuitos eléctricos. Octava edición 
   
