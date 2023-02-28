@@ -4,8 +4,6 @@ Resolucion de los ejercicios pares del capitulo 17 y 18 del libro de Principio d
 
 **Capitulos**: Tarea capitulo 17 y 18
 
-**NRC**: 7322
-
 **Profesor**: Darwin Omar Alulema Flores
 
 **Objetivos:** 
